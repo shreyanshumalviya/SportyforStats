@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "996316862352",
+    "firebase_url": "https://sporty-for-stats.firebaseio.com",
+    "project_id": "sporty-for-stats",
+    "storage_bucket": "sporty-for-stats.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996316862352:android:bfcc4e61507580b70d0515",
+        "android_client_info": {
+          "package_name": "com.shreyanshu.sportyforstats"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996316862352-9tsj61d3hf176t2c7mm8thccshd4pnsc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shreyanshu.sportyforstats",
+            "certificate_hash": "4c478cdd008ee287ba1fb5840f33cde581f3362e"
+          }
+        },
+        {
+          "client_id": "996316862352-ume4i63bvkb7dmkga862n8e4fhj0mt88.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg_zqrWDMQ0mNFL6bA0n8fQ9K1mKlAmM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996316862352-ume4i63bvkb7dmkga862n8e4fhj0mt88.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
